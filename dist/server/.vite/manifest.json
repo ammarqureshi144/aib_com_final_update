@@ -1,0 +1,333 @@
+{
+  "%23tanstack-start-plugin-adapters": {
+    "file": "assets/__23tanstack-start-plugin-adapters-Cwee5PKy.js",
+    "name": "__23tanstack-start-plugin-adapters",
+    "src": "%23tanstack-start-plugin-adapters",
+    "isDynamicEntry": true
+  },
+  "C:/Users/Ammar Qureshi/OneDrive/Desktop/second-chapter-main/src/styles.css": {
+    "file": "assets/styles-oKoWF4O1.css",
+    "src": "C:/Users/Ammar Qureshi/OneDrive/Desktop/second-chapter-main/src/styles.css"
+  },
+  "_LegalLayout-CDK27YwX.js": {
+    "file": "assets/LegalLayout-CDK27YwX.js",
+    "name": "LegalLayout",
+    "imports": [
+      "_server-8JVr5XlA.js",
+      "_router-CgOxyFIj.js"
+    ]
+  },
+  "_arrow-right-CbOjT-mN.js": {
+    "file": "assets/arrow-right-CbOjT-mN.js",
+    "name": "arrow-right",
+    "imports": [
+      "_router-CgOxyFIj.js"
+    ]
+  },
+  "_clock-CZ6wYpG4.js": {
+    "file": "assets/clock-CZ6wYpG4.js",
+    "name": "clock",
+    "imports": [
+      "_router-CgOxyFIj.js"
+    ]
+  },
+  "_headphones-BbbV_zth.js": {
+    "file": "assets/headphones-BbbV_zth.js",
+    "name": "headphones",
+    "imports": [
+      "_router-CgOxyFIj.js"
+    ]
+  },
+  "_router-CgOxyFIj.js": {
+    "file": "assets/router-CgOxyFIj.js",
+    "name": "router",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-8JVr5XlA.js"
+    ],
+    "dynamicImports": [
+      "src/routes/terms.tsx?tsr-split=component",
+      "src/routes/services.tsx?tsr-split=component",
+      "src/routes/privacy.tsx?tsr-split=component",
+      "src/routes/contact.tsx?tsr-split=component",
+      "src/routes/ccpa.tsx?tsr-split=component",
+      "src/routes/about.tsx?tsr-split=component",
+      "src/routes/index.tsx?tsr-split=component"
+    ],
+    "assets": [
+      "assets/logo1-D42WA_8d.png",
+      "assets/logo-htek-CR3YGQR0.png",
+      "assets/styles-oKoWF4O1.css"
+    ]
+  },
+  "_server-8JVr5XlA.js": {
+    "file": "assets/server-8JVr5XlA.js",
+    "name": "server",
+    "isDynamicEntry": true,
+    "dynamicImports": [
+      "tanstack-start-manifest:v",
+      "_router-CgOxyFIj.js",
+      "src/start.ts",
+      "%23tanstack-start-plugin-adapters"
+    ]
+  },
+  "_sparkles-BazL-mS9.js": {
+    "file": "assets/sparkles-BazL-mS9.js",
+    "name": "sparkles",
+    "imports": [
+      "_router-CgOxyFIj.js"
+    ]
+  },
+  "_worker-entry-QEofF4Tf.js": {
+    "file": "assets/worker-entry-QEofF4Tf.js",
+    "name": "worker-entry",
+    "dynamicImports": [
+      "_server-8JVr5XlA.js"
+    ]
+  },
+  "_zap-BiLwVWSt.js": {
+    "file": "assets/zap-BiLwVWSt.js",
+    "name": "zap",
+    "imports": [
+      "_router-CgOxyFIj.js"
+    ]
+  },
+  "src/assets/ch-accn.jpg": {
+    "file": "assets/ch-accn-Cvlji02p.jpg",
+    "src": "src/assets/ch-accn.jpg"
+  },
+  "src/assets/ch-big.jpg": {
+    "file": "assets/ch-big-CdVYhqXE.jpg",
+    "src": "src/assets/ch-big.jpg"
+  },
+  "src/assets/ch-cbs.jpg": {
+    "file": "assets/ch-cbs-ljHKr5NA.jpg",
+    "src": "src/assets/ch-cbs.jpg"
+  },
+  "src/assets/ch-cinemax.jpg": {
+    "file": "assets/ch-cinemax-DG9TewoU.jpg",
+    "src": "src/assets/ch-cinemax.jpg"
+  },
+  "src/assets/ch-cnn.jpg": {
+    "file": "assets/ch-cnn-CVHs9mBu.jpg",
+    "src": "src/assets/ch-cnn.jpg"
+  },
+  "src/assets/ch-espn.jpg": {
+    "file": "assets/ch-espn-BkrBwxst.jpg",
+    "src": "src/assets/ch-espn.jpg"
+  },
+  "src/assets/ch-food.jpg": {
+    "file": "assets/ch-food-B5rY55dz.jpg",
+    "src": "src/assets/ch-food.jpg"
+  },
+  "src/assets/ch-fox.jpg": {
+    "file": "assets/ch-fox-DxI29fx8.jpg",
+    "src": "src/assets/ch-fox.jpg"
+  },
+  "src/assets/ch-fx.jpg": {
+    "file": "assets/ch-fx-C7_fs3d7.jpg",
+    "src": "src/assets/ch-fx.jpg"
+  },
+  "src/assets/ch-max.jpg": {
+    "file": "assets/ch-max-Ceez8xxc.jpg",
+    "src": "src/assets/ch-max.jpg"
+  },
+  "src/assets/ch-mlb.jpg": {
+    "file": "assets/ch-mlb-iyjSpXc3.jpg",
+    "src": "src/assets/ch-mlb.jpg"
+  },
+  "src/assets/ch-nba.jpg": {
+    "file": "assets/ch-nba-MORX2D3e.jpg",
+    "src": "src/assets/ch-nba.jpg"
+  },
+  "src/assets/ch-nhl.jpg": {
+    "file": "assets/ch-nhl-CECSaWOQ.jpg",
+    "src": "src/assets/ch-nhl.jpg"
+  },
+  "src/assets/ch-paramount.jpg": {
+    "file": "assets/ch-paramount-B79CoM2E.jpg",
+    "src": "src/assets/ch-paramount.jpg"
+  },
+  "src/assets/ch-starz.jpg": {
+    "file": "assets/ch-starz-wUWFoKAh.jpg",
+    "src": "src/assets/ch-starz.jpg"
+  },
+  "src/assets/cover-2.jpg": {
+    "file": "assets/cover-2-DJ6D5SRC.jpg",
+    "src": "src/assets/cover-2.jpg"
+  },
+  "src/assets/cover-3.jpg": {
+    "file": "assets/cover-3-C-oYyviv.jpg",
+    "src": "src/assets/cover-3.jpg"
+  },
+  "src/assets/cover-4.jpg": {
+    "file": "assets/cover-4-BxNHl-l8.jpg",
+    "src": "src/assets/cover-4.jpg"
+  },
+  "src/assets/cover.jpg": {
+    "file": "assets/cover-C60S_3Lm.jpg",
+    "src": "src/assets/cover.jpg"
+  },
+  "src/assets/logo-htek.png": {
+    "file": "assets/logo-htek-CR3YGQR0.png",
+    "src": "src/assets/logo-htek.png"
+  },
+  "src/assets/logo1.png": {
+    "file": "assets/logo1-D42WA_8d.png",
+    "src": "src/assets/logo1.png"
+  },
+  "src/assets/provider-directv.jpg": {
+    "file": "assets/provider-directv-CXx46LeW.jpg",
+    "src": "src/assets/provider-directv.jpg"
+  },
+  "src/assets/provider-earthlink.jpg": {
+    "file": "assets/provider-earthlink-CpNmJoT5.jpg",
+    "src": "src/assets/provider-earthlink.jpg"
+  },
+  "src/assets/provider-frontier.jpg": {
+    "file": "assets/provider-frontier-CJ0JFIy_.jpg",
+    "src": "src/assets/provider-frontier.jpg"
+  },
+  "src/assets/provider-kinetic.jpg": {
+    "file": "assets/provider-kinetic-CYiMUeLV.jpg",
+    "src": "src/assets/provider-kinetic.jpg"
+  },
+  "src/assets/provider-optimum.jpg": {
+    "file": "assets/provider-optimum-CbGCtIMH.jpg",
+    "src": "src/assets/provider-optimum.jpg"
+  },
+  "src/routes/about.tsx?tsr-split=component": {
+    "file": "assets/about-C_yP72L8.js",
+    "name": "about",
+    "src": "src/routes/about.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-8JVr5XlA.js",
+      "_router-CgOxyFIj.js",
+      "_sparkles-BazL-mS9.js",
+      "_clock-CZ6wYpG4.js"
+    ]
+  },
+  "src/routes/ccpa.tsx?tsr-split=component": {
+    "file": "assets/ccpa-CR3K5sRV.js",
+    "name": "ccpa",
+    "src": "src/routes/ccpa.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-8JVr5XlA.js",
+      "_LegalLayout-CDK27YwX.js",
+      "_router-CgOxyFIj.js"
+    ]
+  },
+  "src/routes/contact.tsx?tsr-split=component": {
+    "file": "assets/contact-CbNwXrPC.js",
+    "name": "contact",
+    "src": "src/routes/contact.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-8JVr5XlA.js",
+      "_router-CgOxyFIj.js",
+      "_arrow-right-CbOjT-mN.js",
+      "_clock-CZ6wYpG4.js",
+      "_headphones-BbbV_zth.js"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-BcPG9Xeo.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-8JVr5XlA.js",
+      "_router-CgOxyFIj.js",
+      "_sparkles-BazL-mS9.js",
+      "_zap-BiLwVWSt.js",
+      "_arrow-right-CbOjT-mN.js"
+    ],
+    "assets": [
+      "assets/cover-C60S_3Lm.jpg",
+      "assets/cover-2-DJ6D5SRC.jpg",
+      "assets/cover-3-C-oYyviv.jpg",
+      "assets/cover-4-BxNHl-l8.jpg",
+      "assets/provider-earthlink-CpNmJoT5.jpg",
+      "assets/provider-frontier-CJ0JFIy_.jpg",
+      "assets/provider-optimum-CbGCtIMH.jpg",
+      "assets/provider-kinetic-CYiMUeLV.jpg",
+      "assets/provider-directv-CXx46LeW.jpg",
+      "assets/ch-cnn-CVHs9mBu.jpg",
+      "assets/ch-fox-DxI29fx8.jpg",
+      "assets/ch-espn-BkrBwxst.jpg",
+      "assets/ch-food-B5rY55dz.jpg",
+      "assets/ch-accn-Cvlji02p.jpg",
+      "assets/ch-big-CdVYhqXE.jpg",
+      "assets/ch-mlb-iyjSpXc3.jpg",
+      "assets/ch-nba-MORX2D3e.jpg",
+      "assets/ch-cbs-ljHKr5NA.jpg",
+      "assets/ch-fx-C7_fs3d7.jpg",
+      "assets/ch-nhl-CECSaWOQ.jpg",
+      "assets/ch-cinemax-DG9TewoU.jpg",
+      "assets/ch-max-Ceez8xxc.jpg",
+      "assets/ch-paramount-B79CoM2E.jpg",
+      "assets/ch-starz-wUWFoKAh.jpg"
+    ]
+  },
+  "src/routes/privacy.tsx?tsr-split=component": {
+    "file": "assets/privacy-2zzwy62Q.js",
+    "name": "privacy",
+    "src": "src/routes/privacy.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-8JVr5XlA.js",
+      "_LegalLayout-CDK27YwX.js",
+      "_router-CgOxyFIj.js"
+    ]
+  },
+  "src/routes/services.tsx?tsr-split=component": {
+    "file": "assets/services-c8oFtGbV.js",
+    "name": "services",
+    "src": "src/routes/services.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-8JVr5XlA.js",
+      "_router-CgOxyFIj.js",
+      "_headphones-BbbV_zth.js",
+      "_zap-BiLwVWSt.js",
+      "_arrow-right-CbOjT-mN.js"
+    ]
+  },
+  "src/routes/terms.tsx?tsr-split=component": {
+    "file": "assets/terms-DlxxP9S9.js",
+    "name": "terms",
+    "src": "src/routes/terms.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-8JVr5XlA.js",
+      "_LegalLayout-CDK27YwX.js",
+      "_router-CgOxyFIj.js"
+    ]
+  },
+  "src/start.ts": {
+    "file": "assets/start-E3r6vkB1.js",
+    "name": "start",
+    "src": "src/start.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-QEofF4Tf.js"
+    ]
+  },
+  "tanstack-start-manifest:v": {
+    "file": "assets/_tanstack-start-manifest_v-BxUNWYSz.js",
+    "name": "_tanstack-start-manifest_v",
+    "src": "tanstack-start-manifest:v",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_worker-entry-QEofF4Tf.js"
+    ]
+  }
+}
